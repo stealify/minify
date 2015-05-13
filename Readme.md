@@ -1,7 +1,7 @@
 
 # minify
 
-  Super clean API for minifying Javascript, HTML or CSS. 
+  Super clean API for minifying Javascript, HTML or CSS.
 
   So you don't have to keep googling for the right tool or the tool's API. And so that you get a nice CLI regardless.
 
@@ -42,8 +42,18 @@ var css = minify.css('css string');
 var min = minify('unknown string');
 ```
 
+When using JavaScript, you may also alter the default options using the same API as [UglifyJS](https://github.com/mishoo/UglifyJS2):
+
+
+```javascript
+var js = minify.js('js string', {
+  compress: false,
+  mangle: false
+});
+```
+
 ## License
-  
+
   The MIT License (MIT)
 
   Copyright (c) 2013, Ian Storm Taylor &lt;ian@ianstormtaylor.com&gt;
