@@ -1,13 +1,13 @@
 
 # minify
 
-  Super clean API for minifying Javascript, HTML or CSS. 
+  Super clean API for minifying Javascript, HTML or CSS.
 
   So you don't have to keep googling for the right tool or the tool's API. And so that you get a nice CLI regardless.
 
 ## Installation
 
-    $ npm install ianstormtaylor/minify
+    $ npm install @kennethormandy/minify
 
 ## CLI
 
@@ -43,7 +43,7 @@ var min = minify('unknown string');
 ```
 
 ## License
-  
+
   The MIT License (MIT)
 
   Copyright (c) 2013, Ian Storm Taylor &lt;ian@ianstormtaylor.com&gt;
