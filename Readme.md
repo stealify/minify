@@ -7,7 +7,7 @@
 
 ## Installation
 
-    $ npm install ianstormtaylor/minify
+    $ npm install @kennethormandy/minify
 
 ## CLI
 
