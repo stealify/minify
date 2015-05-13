@@ -1,7 +1,7 @@
 {
   "name": "@kennethormandy/minify",
   "repository": "git://github.com/kennethormandy/minify.git",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "license": "MIT",
   "description": "Simple, clean API for minifying Javascript, HTML or CSS.",
   "keywords": [
