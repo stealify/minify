@@ -1,3 +1,11 @@
+0.3.2 - May 21, 2015
+------------------------
+* namespaces instead of scoping
+
+0.3.1 - May 14, 2015
+------------------------
+* adds scoping
+* publishes to npm
 
 0.2.1 - February 6, 2015
 ------------------------
