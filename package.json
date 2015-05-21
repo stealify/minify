@@ -1,5 +1,5 @@
 {
-  "name": "@kennethormandy/minify",
+  "name": "harp-minify",
   "repository": "git://github.com/kennethormandy/minify.git",
   "version": "0.3.1",
   "license": "MIT",
