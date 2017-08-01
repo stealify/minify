@@ -23,7 +23,7 @@
     "write-file-stdout": "0.0.2"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": ">=3.5.0"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha"
