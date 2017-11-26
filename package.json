@@ -1,8 +1,8 @@
 {
-  "name": "harp-minify",
-  "repository": "git://github.com/harp/minify.git",
-  "version": "0.4.0",
-  "license": "MIT",
+  "name": "stealify-minify",
+  "repository": "git://github.com/stealify/minify.git",
+  "version": "0.4.1",
+  "license": "Apache-2.0",
   "description": "Simple, clean API for minifying Javascript, HTML or CSS.",
   "keywords": [
     "minify",
